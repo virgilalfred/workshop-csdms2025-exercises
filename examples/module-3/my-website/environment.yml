@@ -1,0 +1,6 @@
+name: "workshop-csdms2025-template"
+channels:
+  - "conda-forge"
+  - "nodefaults"
+dependencies:
+  - "mystmd >=1.3.26,<2"

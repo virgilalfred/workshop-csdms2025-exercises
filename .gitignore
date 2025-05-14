@@ -1,0 +1,10 @@
+# pixi environments
+.pixi
+*.egg-info
+
+# MyST stuff
+/_build/
+
+# JupyterLab stuff
+.ipynb_checkpoints
+.jupyter_ystore.db

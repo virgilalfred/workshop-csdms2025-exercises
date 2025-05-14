@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+
+project:
+  title: "GeoJupyter Workshop - CSDMS 2025 - MY-USERNAME"
+  description: "My exercises from the GeoJupyter workshop at the CSDMS 2025 Annual Meeting"
+  # github: "MY-USERNAME/workshop-csdms2025-exercises"
+  license: "MIT"
+  jupyter:  # Enable computation
+    lite: true
+
+site:
+  template: "book-theme"
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "4001 Discovery Dr., Boulder, CO",
+        "Name": "Sustainability, Energy, and Environment Community (SEEC) Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.24206599999948,
+          40.01007767367196
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

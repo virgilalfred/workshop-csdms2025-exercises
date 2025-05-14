@@ -1,0 +1,47 @@
+{
+  "layerTree": [
+    "e220d708-c851-4f54-b9ae-9c56c5e04480"
+  ],
+  "layers": {
+    "e220d708-c851-4f54-b9ae-9c56c5e04480": {
+      "name": "Basemap",
+      "parameters": {
+        "source": "8c8bb2c9-59a5-4962-9835-bd4eada4a4ce"
+      },
+      "type": "RasterLayer",
+      "visible": true
+    }
+  },
+  "metadata": {},
+  "options": {
+    "bearing": 0.0,
+    "extent": [
+      -16943218.227214247,
+      1813884.940591243,
+      -5539788.477108987,
+      8661878.212775469
+    ],
+    "latitude": 42.51130981651042,
+    "longitude": -100.98414277727615,
+    "pitch": 0.0,
+    "projection": "EPSG:3857",
+    "zoom": 4.3991367692285905
+  },
+  "schemaVersion": "0.5.0",
+  "sources": {
+    "8c8bb2c9-59a5-4962-9835-bd4eada4a4ce": {
+      "name": "Esri.WorldGrayCanvas",
+      "parameters": {
+        "attribution": "Tiles (C) Esri -- Esri, DeLorme, NAVTEQ",
+        "maxZoom": 16.0,
+        "minZoom": 0.0,
+        "provider": "Esri",
+        "url": "https://server.arcgisonline.com/ArcGIS/rest/services/{variant}/MapServer/tile/{z}/{y}/{x}",
+        "urlParameters": {
+          "variant": "Canvas/World_Light_Gray_Base"
+        }
+      },
+      "type": "RasterSource"
+    }
+  }
+}
